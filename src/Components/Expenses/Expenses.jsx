@@ -1,4 +1,4 @@
-import { useState, React } from "react";
+import React, { useState } from "react";
 import { Card } from "./Card";
 import ExpensesFilter from "./ExpensesFilter";
 import "./Expenses.css";

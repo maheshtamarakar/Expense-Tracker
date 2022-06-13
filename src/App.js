@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React, { useState } from "react";
 import { Expenses } from "./Components/Expenses/Expenses";
 import { NewExpense } from "./Components/NewExpense/NewExpense";
 
